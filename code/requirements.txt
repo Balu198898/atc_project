@@ -1,0 +1,4 @@
+flask
+config
+python-decouple
+python-dotenv
